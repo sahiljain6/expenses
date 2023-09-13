@@ -1,6 +1,7 @@
 # expense_tracker
 
-A new Flutter project.
+A new Flutter project which helps in tracking the day to day expenses in a very interactive manner .
+It uses bar graph to represent the spendings of a particular category.
 
 ## Getting Started
 
